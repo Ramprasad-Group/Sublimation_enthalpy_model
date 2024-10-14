@@ -1,6 +1,8 @@
 # Sublimation enthalpy predictor [![Colab link](https://colab.research.google.com/assets/colab-badge.svg)][1]
 A Colab notebook is available for predicting the sublimation enthalpy of small-molecules using the models developed in the [article](XXX).
 
+The DFT computed dataset can be accessed at our repository https://khazana.gatech.edu.
+
 ## Contributors
 * Yifan Liu
 * Harikrishna Sahu
