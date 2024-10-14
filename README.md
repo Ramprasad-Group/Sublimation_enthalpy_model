@@ -1,4 +1,4 @@
-# Sublimation enthalpy predictor [![Colab link](https://colab.research.google.com/*****)][1]
+# Sublimation enthalpy predictor [![Colab link](https://colab.research.google.com/assets/colab-badge.svg)][1]
 A Colab notebook is available for predicting the sublimation enthalpy of small-molecules using the models developed in the [article](https://doi.org/10.1002/aenm.201801032).
 
 ## Contributors
