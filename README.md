@@ -3,6 +3,7 @@ A Colab notebook is available for predicting the sublimation enthalpy of small-m
 
 ## Contributors
 * Yifan Liu
+* Harikrishna Sahu
 
 ## License & Copyright
 [Ramprasad Group](https://ramprasad.mse.gatech.edu/), Georgia Tech, Atlanta\
