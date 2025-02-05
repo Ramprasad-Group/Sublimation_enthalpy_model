@@ -15,6 +15,6 @@ License: For academic use only.
 
 # Reference
 The datasets and models included in this package are part of the article titled "Accelerated predictions of the sublimation enthalpy of organic materials with machine learning," authored by Y. Liu, H. Tran, B. G. Rio, C. Huang, V. R. Joseph,
-M. Losego, and R. Ramprasad, published in MGE Advances. You can access the article at ([https://****](https://onlinelibrary.wiley.com/doi/full/10.1002/mgea.84)).
+M. Losego, and R. Ramprasad, published in MGE Advances. You can access the article at (https://onlinelibrary.wiley.com/doi/full/10.1002/mgea.84).
 
 [1]:https://colab.research.google.com/github/Ramprasad-Group/Sublimation_enthalpy_model/blob/main/predict.ipynb
