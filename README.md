@@ -1,5 +1,5 @@
 # Sublimation enthalpy predictor [![Colab link](https://colab.research.google.com/assets/colab-badge.svg)][1]
-A Colab notebook is available for predicting the sublimation enthalpy of small-molecules using the models developed in the [article]((https://onlinelibrary.wiley.com/doi/full/10.1002/mgea.84).
+A Colab notebook is available for predicting the sublimation enthalpy of small-molecules using the models developed in the [article](https://onlinelibrary.wiley.com/doi/full/10.1002/mgea.84).
 
 RDKit version 2022.9.05 or earlier is required for this model to maintain consistent features.
 
